@@ -59,7 +59,7 @@ Run ncnnoptimize.
 Change Exp back to YoloV5Focus in the optimized param.
 ### Modify the reshape layer
 Finally, according to the meaning of the ncnn Reshape parameter, change the number of hard-coded output grids to -1 to be adaptive.
-
+-   ![avatar](https://github.com/Zhangxinnian/Computer_Vision/blob/main/Target%20Detection/yolov2ncnn/change.jpg)
 
 
 
