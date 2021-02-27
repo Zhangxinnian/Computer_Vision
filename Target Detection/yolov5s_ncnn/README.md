@@ -32,7 +32,7 @@ endif()
 ## Run
 Please change the path of the imagepath and the path of the model. If you want to use parameter passing, please see the comment section.
 ## Ncnn_Model
-Here is an example using the model trained on the cifar10 dataset .
+Here is an example .
 [Baidu SkyDrive](链接：https://pan.baidu.com/s/1NL4ARkloc6F0qRU8GgL2KQ  )   链接：https://pan.baidu.com/s/1NL4ARkloc6F0qRU8GgL2KQ 
 password：m29z 
 
