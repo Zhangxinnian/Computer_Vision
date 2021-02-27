@@ -71,7 +71,14 @@ The 0 at the end refers to fp32, and 1 refers to fp16.
 
 ncnn also has its own model encryption tool, please explore by yourself.
 
+## Model
+Here is an example using the model trained on the cifar10 dataset .
+[Baidu SkyDrive](链接：https://pan.baidu.com/s/1jdzuNZZDJQIf-ZkBDxFAgg )    
+password：6b71 
 
+Here is an example using the model trained on the minc-2500 dataset .
+[Baidu SkyDrive](链接：https://pan.baidu.com/s/17x-PRmG5dN4jidj_UZ-5Cg )    
+password：gqkd 
 
 
 
