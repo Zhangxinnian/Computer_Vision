@@ -1,0 +1,7 @@
+mxnet_cu100==1.7.0
+matplotlib==3.0.3
+numpy==1.17.4
+gluoncv==0.8.0
+opencv_python==4.4.0.46
+horovod==0.21.3
+mxnet==1.7.0.post2
