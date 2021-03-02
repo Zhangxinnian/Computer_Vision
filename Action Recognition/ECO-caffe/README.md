@@ -5,7 +5,8 @@ Mainly put forward two points:
 - In order to obtain the context between long-term image frames, it is not enough to use simple score aggregation. Therefore, in ECO, the end-2-end fusion is performed on the feature map by 3D convolution between the distant frames.
 Using the form of 2D+3D, it can model space and time well. If you are interested, you can visit the original [code](https://github.com/mzolfaghari/ECO-efficient-video-understanding) . 
 [eco-pytorch](https://github.com/zhang-can/ECO-pytorch).
-It is a pity that I did not sort it out when I read the paper, but there are many articles on the Internet that explain the papers in detail. If you are interested in the direction of behavior recognition, it is recommended to read TSN first.
+
+It is a pity that I did not sort it out when I read the paper, but there are many articles on the Internet that explain the papers in detail. If you are interested in the direction of action recognition, it is recommended to read TSN first.
 # ECO-efficient-video-understanding
 #### Code and models of [paper](https://arxiv.org/pdf/1804.09066.pdf). " ECO: Efficient Convolutional Network for Online Video Understanding, European Conference on Computer Vision (ECCV), 2018." 
  By Mohammadreza Zolfaghari, Kamaljeet Singh, Thomas Brox
