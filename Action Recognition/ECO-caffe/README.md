@@ -1,5 +1,5 @@
 # Action Recognition
-This is a very good behavior recognition project, 
+This is a very good action recognition project, 
 Mainly put forward two points:
 - Using a single frame of image, in many cases a good initial classification result can already be obtained, and a lot of information between adjacent frames is redundant. Therefore, in ECO, only a single frame of image is used in a timing neighborhood.
 - In order to obtain the context between long-term image frames, it is not enough to use simple score aggregation. Therefore, in ECO, the end-2-end fusion is performed on the feature map by 3D convolution between the distant frames.
