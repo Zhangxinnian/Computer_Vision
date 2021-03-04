@@ -8,7 +8,7 @@ Currently, only two frameworks, Mxnet and Ncnn, are used.
 The project structure is as follows：
 - Mxnet/resnet18
 - ncnn
-- Android_demo(Organizing upload，coming soon!)
+- Android_demo
 ## Target Detection
 Here are yolov5 of pytorch, naodet of pytorch, yolov3_mobilenet of mxnet, and their ncnn versio.
 The project structure is as follows：
@@ -19,7 +19,7 @@ The project structure is as follows：
 - yolov3_mobilnet_ncnn
 - yolov5
 - yolov5_ncnn
-- Android_demo(Organizing upload，coming soon!)
+- Android_demo
 
 yolov2ncnn is a detailed process of yolov5 to ncnn.
 There is a process of writing yolov3 to ncnn in yolov3_mobilnet.
@@ -30,7 +30,7 @@ The project structure is as follows：
  - AttentionOCR
  - AttentionOCR_flask
  - EasyOCR
- - GeneralOCR(Organizing upload，coming soon!)
+ - PaddleOCR
 
 ## Target Tracking
 These are two very good target tracking projects. Real-time running on the server side is not a problem, and it is probably maintained at about 30fps.
@@ -46,7 +46,7 @@ These are two very good papers, in which TEA personally sorted them out, and the
 Here is yolov5 for detection, using arcFace for recognition, and Insight Face.
 - yolov5_arcFace
  - yolov5_face
- - Insight Face(Organizing upload，coming soon!)
+ - Insight Face
  
 In yolov5_face, face detection is performed after yolov5 is converted to ncnn.
 
