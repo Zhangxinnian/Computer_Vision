@@ -2,6 +2,7 @@
 
 This repo is an Android object detection demo of NanoDet using
 [Tencent's NCNN framework](https://github.com/Tencent/ncnn).
+After downloading, unzip naodet_app.rar to naodet_android, then you can run.
 
 # Tutorial
 
